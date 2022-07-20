@@ -1,7 +1,5 @@
 import {Context,PersistentVector} from "near-sdk-as";
 import { Request } from "./models";
-import"typedarray"
-import"uri"
 @nearBindgen
 export class Contract {
   //writeSomething
